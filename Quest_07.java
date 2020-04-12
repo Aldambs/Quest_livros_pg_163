@@ -3,7 +3,10 @@ package pg_163;
 import java.util.Scanner;
 
 public class Quest_07 {
-
+    /*
+    Faça um programa que carregue um vetor com dez números reais, calcule e mostre 
+    a quantidade de números negativos e a soma dos números positivos desse vetor
+    */
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         double num[] = new double[10];

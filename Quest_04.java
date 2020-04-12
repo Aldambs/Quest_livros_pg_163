@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class Quest_04 {
     /**
-     * @param args the command line arguments
+     Faça um programa que carregue um vetor com 15 elementos inteiros e verifique 
+     a existência de elementos iguais a 30, mostrando as posições em que esses 
+     elementos apareceram.
      */
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);

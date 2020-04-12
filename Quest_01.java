@@ -5,7 +5,12 @@ import java.util.Scanner;
 public class Quest_01 {
 
     /**
-     * @param args the command line arguments
+    Faça um programa que carregue um vetor de seis elementos numéricos inteiros,
+    calcule e mostre:
+    •a quantidade de números pares;
+    •quais os números pares;
+    •a quantidade de números ímpares;
+    •quais os números ímpares.
      */
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);

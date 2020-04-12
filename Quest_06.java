@@ -3,7 +3,17 @@ package pg_163;
 import java.util.Scanner;
 
 public class Quest_06 {
-
+    /*
+    Faça um programa que receba o total das vendas de cada vendedor e armazene-as 
+    em um vetor. Receba também o percentual de comissão de cada vendedor a 
+    armazene-os em outro vetor. Receba os nomes desses vendedores e armazene-os
+    em um terceiro vetor. Existem apenas dez vendedores. Calcule e mostre:
+    
+    um relatório com os nomes dos vendedores;
+    o total das vendas de todos os vendedores;
+    o maior valor a receber e quem o receberá;
+    o menor valor a receber e quem o receberá.
+    */
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         System.out.println("Informe o número de vendedores: ");

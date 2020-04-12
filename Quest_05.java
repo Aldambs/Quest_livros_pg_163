@@ -3,7 +3,13 @@ package pg_163;
 import java.util.Scanner;
 
 public class Quest_05 {
-
+    /*
+    Uma escola deseja saber se existem alunos cursando, simultaneamente, as 
+    disciplina Lógica e Linguagem de programação. Coloque os números das matrículas 
+    dos alunos que cursam Lógica em um vetor, no máximo 15 alunos. Coloque os 
+    números das matrículas dos alunos que cursam Linguagem de programação em outro 
+    vetor, no máximo dez. Mostre o número da matrícula que aparece nos dois vetores.
+    */
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int l[] = new int[15];
